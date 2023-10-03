@@ -8,3 +8,6 @@ Os projetos desse repositório seguem o roadmap de QA focados em tecnologias com
 [Alura](https://www.alura.com.br/)
 
 ## Referências 
+
+## Novos projetos Alura
+
