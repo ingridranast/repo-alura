@@ -14,3 +14,4 @@ Os projetos desse repositório seguem o roadmap de QA focados em tecnologias com
 ## Notas 
 
 
+:)
